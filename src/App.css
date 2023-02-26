@@ -1,0 +1,22 @@
+.App{
+    background-color: #3f3d3d;
+   
+    width: 100%;
+    margin: 10px;
+    height: 100vh;
+    color: white;
+
+
+}
+
+.addVideo{
+      background-color: black;
+      border: 1px solid yellow;
+      padding: 1em;
+      border-radius: 1em;
+      margin-bottom: 10px;
+      color: white;
+      cursor: pointer;
+      width: 20%;
+}
+

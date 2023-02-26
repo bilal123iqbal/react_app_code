@@ -1,0 +1,5 @@
+{
+    "json.format.keepLines": true,
+    "html.format.indentHandlebars": true,
+    "html.format.templating": true
+}
